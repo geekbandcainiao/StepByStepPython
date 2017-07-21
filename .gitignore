@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/misc.xml
+.idea/modules.xml
+.idea/StepByStepPython.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+StepByStepPython/.idea/misc.xml
+StepByStepPython/.idea/modules.xml
+StepByStepPython/.idea/StepByStepPython.iml
+StepByStepPython/.idea/workspace.xml
+StepByStepPython/.idea/inspectionProfiles/profiles_settings.xml
