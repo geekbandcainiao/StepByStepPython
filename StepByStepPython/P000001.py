@@ -8,7 +8,6 @@ print(100 +200)
 
 print('100 +200 =', 100 +200)
 
-# 输入
 name = input()
 
 name2 = input('please enter your name:')
